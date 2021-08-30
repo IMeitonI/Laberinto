@@ -1,0 +1,13 @@
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.csprojAssemblyReference.cache
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.AssemblyInfo.cs
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\bin\Debug\netcoreapp3.1\ParcialScripting.exe
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\bin\Debug\netcoreapp3.1\ParcialScripting.deps.json
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\bin\Debug\netcoreapp3.1\ParcialScripting.runtimeconfig.json
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\bin\Debug\netcoreapp3.1\ParcialScripting.runtimeconfig.dev.json
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\bin\Debug\netcoreapp3.1\ParcialScripting.dll
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\bin\Debug\netcoreapp3.1\ParcialScripting.pdb
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.dll
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.pdb
+C:\Users\EQUIPO\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.genruntimeconfig.cache
